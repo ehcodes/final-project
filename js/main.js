@@ -11,7 +11,9 @@
 document.addEventListener("DOMContentLoaded",function(){
 
   document.addEventListener("onclick", function(){
+
     
+
   })
 
 });
